@@ -1,0 +1,12 @@
+{
+  "name": "google-analytics-api",
+  "version": "1.0.0",
+  "description": "\"To track active users on the website using google analytics api\"",
+  "main": "index.js",
+  "repository": "https://github.com/sesn/google-analytics-api.git",
+  "author": "sesn <sesankar11@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^31.0.2"
+  }
+}
